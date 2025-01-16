@@ -1,0 +1,2 @@
+# patika-sql
+week6
